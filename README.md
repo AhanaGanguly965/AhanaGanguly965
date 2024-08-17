@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm Ahana Ganguly, a coding enthusiast and also dedicated to learning more about it.Currently I am working on  Web-development and DSA in c++ and also keen to learn Data-Analytics as well. 
+Welcome to my GitHub profile! I'm Ahana Ganguly, a coding enthusiast and also dedicated to learning more about it.Currently I am working on  Web-development and DSA in c++ and also keen to learn IOT as well. 
 Let's collaborate and build something amazing together!
 
 
